@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:07:13.507775
+# -*- mode: mandoku-view -*-
 #+TITLE: 太平兩同書
-#+PROPERTY: DZID  DZ1135
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—912 一卷 太平部
+#+DATE: 2015-08-29 02:07:14
+#+PROPERTY:  LASTPB <PB KR5e0037_SJB_002-240916a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5e0037_HFL_002-011b>¶¶¶¶¶¶¶¶¶¶¶
+
